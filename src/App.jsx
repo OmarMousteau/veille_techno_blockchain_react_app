@@ -7,7 +7,7 @@ import Methodologie from './pages/Methodologie';
 
 const App = () => {
   return (
-    <Router basename="/veille_techno_blockchain_react_app">
+    <Router basename="/">
       <div className="p-4">
         <nav className="mb-6">
           <Link to="/" className="mr-4 text-blue-500">Accueil</Link>
