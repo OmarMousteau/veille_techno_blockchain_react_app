@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const Synthese = () => {
     return (
       <div className="p-6">
-      <h1 className="text-2xl font-bold">Synthèse de la veille</h1>
+      <h1 className="text-2xl font-bold">État de l'art</h1>
       <br />
       <br />
       <h2 className="text-xl font-semibold">Contexte</h2>
