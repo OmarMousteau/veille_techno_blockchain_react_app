@@ -28,7 +28,7 @@ const Synthese = () => {
 
       <div className="flex justify-center my-6">
         <img 
-          src="/FonctionnementBC.png" 
+          src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/FonctionnementBC.png?raw=true" 
           alt="Fonctionnement de la blockchain" 
           className="w-full max-w-4xl"
         />
@@ -80,7 +80,7 @@ const Synthese = () => {
 
         <div className="flex justify-center my-6">
         <img 
-          src="/LatestBlocks.png" 
+          src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/LatestBlocks.png?raw=true"
           alt="Derniers blocs de la blockchain bitcoin" 
           className="w-full max-w-4xl"
         />
