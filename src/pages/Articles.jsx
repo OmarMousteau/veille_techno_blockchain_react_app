@@ -91,7 +91,7 @@ const articles = [
   },
   {
     titre: "Blockchain et transformation des services financiers",
-    resume: "L'étude explore l'impact de la blockchain sur le secteur financier, notamment dans le commerce et la gestion des titres. Il met en avant ses avantages en matière de sécurité, d'efficacité et de transparence, réduisant le besoin d'intermédiaires et améliorant la confiance. L'étude examine plusieurs plateformes blockchain appliquées à la finance et analyse les défis liés à la réglementation, à la scalabilité et aux risques de sécurité.",
+    resume: "L'étude explore l'impact de la blockchain sur le secteur financier, notamment dans le commerce et la gestion des titres. Elle met en avant ses avantages en matière de sécurité, d'efficacité et de transparence, réduisant le besoin d'intermédiaires et améliorant la confiance. L'étude examine plusieurs plateformes blockchain appliquées à la finance et analyse les défis liés à la réglementation, à la scalabilité et aux risques de sécurité.",
     lien: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/blc2.12067",
     categorie: "Finance"
   },
