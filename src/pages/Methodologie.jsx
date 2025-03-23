@@ -8,7 +8,7 @@ const Methodologie = () => {
       <br />
       <h2 className="text-xl font-semibold">1. Recherches préliminaires</h2>
       <br />
-      <p className="mt-4"> Tout d'abord, il était important de bien comprendre les concepts clés de la blockchain et des smart contracts, puis de comprendre les secteurs les plus impactés par ces technologies. Pour cela, j'ai effectué des recherches en utilisant l'outil Perplexity, un modèle de langage naturel qui à partir d'un prompt, répond à des questions en citant et analysant des sources sur le Web. J'ai également utilisé les outils de recherche de ChatGPT et DeepSeek, mais aussi des outils de recherche classiques comme Google Scholar, ResearchGate, etc.</p>
+      <p className="mt-4"> Tout d'abord, il était important de bien comprendre les concepts clés de la blockchain et des smart contracts, puis de comprendre les secteurs les plus impactés par ces technologies. Pour cela, j'ai effectué des recherches en utilisant l'outil Perplexity, un modèle de langage naturel qui, à partir d'un prompt, répond à des questions en citant et analyse des sources sur le Web. J'ai également utilisé les outils de recherche de ChatGPT et DeepSeek, mais aussi des outils de recherche classiques comme Google Scholar, ResearchGate, etc.</p>
       <div className="flex justify-center space-x-4 mt-6">
         <img
           src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/Perplexity.png?raw=true"
@@ -36,7 +36,7 @@ const Methodologie = () => {
           className="w-1/20 object-cover"
         />
       </div>
-      <p className="mt-4"> J'ai également pu trouver des informations sur certaines plateforme d'articles qui traite de sujets tech ou spécifiquement de blockchain : Medium, The Block, Journal du Coin, etc. </p>
+      <p className="mt-4"> J'ai aussi pu trouver des informations sur certaines plateformes d'articles qui traitent de sujets tech ou spécifiquement de blockchain : Medium, The Block, Journal du Coin, etc. </p>
       <p className="mt-4"> Enfin, j'ai pu mieux comprendre certains concepts de la blockchain grâce aux vidéos des chaines Youtube suivantes : </p>
       <ul className="list-disc ml-8 mt-4">
         <li>
@@ -107,14 +107,14 @@ const Methodologie = () => {
           className="w-2/3 object-cover"
         />
       </div> 
-      <p className="mt-4">Souvent, lorsqu'un article me semblait interressant, je demandais à un LLM de le résumer puis si ses élementss me semblait pertinents, je le lisais en partie ou intégralement. </p>
+      <p className="mt-4">Souvent, lorsqu'un article me semblait intéressant, je demandais à un LLM de le résumer puis si ses élements me semblaient pertinents, je le lisais en partie ou intégralement. </p>
       <br />
       
       
       <br />
       <h2 className="text-xl font-semibold">3. Agrégation des articles</h2>
       <p className="mt-4">
-        Les articles que j'ai recueilli ont été agrégés via l'outil{" "}
+        Les articles que j'ai recueillis ont été agrégés via l'outil{" "}
         <a
           href="https://www.zotero.org/"
           target="_blank"
@@ -123,7 +123,7 @@ const Methodologie = () => {
         >
           Zotero
         </a>
-        , puis je les ai classés par secteur d'activité. J'ai donc pu construire la page "Articles" de ce site, qui regroupe les articles les plus pertinents que j'ai trouvé et en donne un résumé généré par un LLM.
+        , puis je les ai classés par secteur d'activité. J'ai donc pu construire la page "Articles" de ce site, qui regroupe les articles les plus pertinents que j'ai trouvés et en donne un résumé généré par un LLM.
       </p>
     </div>
   );
