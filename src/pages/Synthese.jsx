@@ -105,20 +105,66 @@ const Synthese = () => {
         Avec ces avancées, la blockchain trouve des applications concrètes dans de nombreux secteurs. Cette veille technologique a permis de découvrir ces cas d'usage, voici les principaux domaines concernés :
       </p>
       <br />
-      <h3 className="text-base font-semibold">Immobilier</h3>
-      <p className="mt-4">[Applications dans le domaine de l'immobilier]</p>
+      <h3 className="text-lg font-semibold">Immobilier</h3>
+      <p className="mt-4">L'immobilier est un des domaines dans lesquels la blochchain apporte le plus de solutions innovantes. Pour rappel, l'immobilier est souvent décrit comme un secteur en retard en terme de transformation digitale. Depuis plusieurs années, certains acteurs utilisent les avantages de la blockchain pour simplifier les processus immobiliers, ouvrir le marché à de nouveaux investisseurs, mais aussi permettre une meilleur traçabilité des biens et des transactions. Voici quelques cas d'applications interressants : </p>
       <br />
-      <h3 className="text-base font-semibold">Santé</h3>
-      <p className="mt-4">[Applications dans le domaine de la santé]</p>
+      <ul className="list-disc ml-8">
+        <li><strong>Tokenisation des actifs immobiliers</strong> : La tokenisation des biens immobiliers est un processus innovant qui utilise la technologie blockchain pour convertir des droits de propriété en jetons numériques, appelés tokens. Ce processus permet de diviser un bien immobilier en plusieurs tokens, offrant ainsi aux investisseurs la possibilité d'acquérir une fraction de la propriété. On peut citer les sociétés <a href="https://realt.co/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> RealT</a> et <a href="https://letztoken.com/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> LetzToken</a> qui proposent des propriétés tokenisées accessibles via des cryptomonnaies ou des devises traditionnelles. Ce concept ouvre le marché à de nouveaux investisseurs, y compris ceux disposant de budgets plus modestes, sans nécessiter l'achat d'un bien dans son intégralité. On observe également des campagnes de financement participatif pour des projets immobiliers basés sur cette technologie.</li>
+        <li><strong>Accès aux flux de trésorerie locatifs</strong> : L'entreprise <a href="https://realnoi.io/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> RealNOI</a>, en collaboration avec <a href="https://chintai.io/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> Chintai</a>, a lancé une plateforme permettant aux investisseurs d'accéder aux flux de trésorerie locatifs tokenisés. Cela offre une nouvelle opportunité d'investissement tout en aidant les propriétaires à refinancer leurs biens, notamment dans un contexte de taux hypothécaires élevés.</li>
+        <li><strong>Sécurisation et transparence des transactions</strong> : La blockchain assure une traçabilité et une transparence accrues dans les transactions immobilières. Chaque étape, de la signature des contrats à l'enregistrement des titres de propriété, est enregistrée de manière immuable, réduisant ainsi les risques de fraude et les erreurs.</li>
+        <li><strong>Automatisation des processus avec les smart contracts</strong> : Les contrats intelligents automatisent l'exécution des accords lorsque les conditions prédéfinies sont remplies. Ils simplifient des processus tels que les paiements de loyers, les transferts de propriété ou la gestion des baux, réduisant ainsi les coûts administratifs et les délais.</li>
+        <li><strong>Gestion immobilière</strong> : La blockchain peut être utilisée pour gérer les relations entre les propriétaires, les locataires et les prestataires de services, en assurant la transparence et la sécurité des informations.</li>
+        <li><strong>Création d'un Métaverse Terrestre</strong> : Des projets comme <a href="https://www.lelieuinternational.com/fieldcoin-la-revolution-du-marche-immobilier-grace-a-la-blockchain"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> FieldCoin</a> visent à créer une version numérisée du monde sur la blockchain, où chaque propriété foncière est tokénisée et accessible dans un Métaverse.</li>
+      </ul>
       <br />
-      <h3 className="text-base font-semibold">Finance</h3>
-      <p className="mt-4">[Applications dans le domaine de la finance]</p>
       <br />
-      <h3 className="text-base font-semibold">Supply Chain</h3>
-      <p className="mt-4">[Applications dans le domaine de la logistique]</p>
+      <h3 className="text-lg font-semibold">Santé</h3>
+      <p className="mt-4"> Dans le domaine de la santé, la blockchain offre des solutions pour sécuriser les données médicales, faciliter le partage d'informations entre les acteurs de la santé et garantir la confidentialité des patients. Voici quelques applications concrètes :</p>
       <br />
-      <h3 className="text-base font-semibold">IoT</h3>
-      <p className="mt-4">[Applications dans le domaine des réseaux IoT]</p>
+      <ul className="list-disc ml-8">
+        <li><strong>Gestion sécurisée des données médicales</strong> : Il est possible d'inscrire sur la blockchain les dossiers médicaux électroniques (DME) des patients. Cette pratique permet aux médecins prenant en charge le patient d'avoir accès à ses informations et de les transmettre à ses pairs bien plus facilement. De plus, le chiffrement des blocs permet de protéger les données sensibles des patients contre les piratages et les accès non autorisés. Cela permet de garantir la confidentialité et l'intégrité des informations médicales.
+        <br /> Les patients peuvent avoir un contrôle total sur leurs données via les clés cryptographiques, ce qui respecte les exigences du Règlement Général sur la Protection des Données (RGPD) en Europe. Cela signifie que les patients peuvent décider qui peut accéder à leurs données et quand.</li>
+        
+        <li><strong>Interopérabilité des systèmes de santé</strong> : Avec l'inscription des DME dans la blockchain, on simplifie le partage transparent et sécurisé de données entre différents acteurs du système de santé, tels que les hôpitaux, les laboratoires et les assureurs. À noter qu'aujourdhui, il est parfois difficile même pour les médecins de partager les DME avec le nombre de logiciels et de formats différents.
+        <br /> Des projets comme <a href="https://www.doc.com/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> Doc.com</a> ou <a href="https://www.thebigwhale.io/cours/medibloc"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> Medibloc</a> proposent des solutions de stockage et de partage sécurisé des données médicales sur la blockchain. Grâce à des historiques médicaux complets et accessibles, les erreurs de diagnostic peuvent être réduites. Les professionnels de santé ont accès à des informations précises et à jour, ce qui améliore la qualité des soins.</li>
+
+        <li><strong>Optimisation des processus administratifs</strong> : Les smart contracts peuvent automatiser divers processus administratifs comme les remboursements d'assurance, la vérification des qualifications médicales, et la gestion des consentements éclairés. Cela réduit les coûts et accélère les démarches bureaucratiques, ce qui permet aux professionnels de santé de se concentrer pleinement sur les soins aux patients.
+        </li>
+
+        <li><strong>Traçabilité des produits pharmaceutiques</strong> : La blockchain peut être utilisée pour suivre de manière transparente la chaîne d'approvisionnement des médicaments, ce qui aide à lutter contre les contrefaçons. Chaque étape, depuis la production jusqu'à la distribution, est enregistrée et vérifiable en temps réél.</li>
+      
+        <li><strong>Recherche médicale et essais cliniques</strong> : Les données des études et des essais cliniques peuvent être stockées de manière inviolable sur la blockchain, garantissant leur intégrité scientifique et évitant toute falsification. Après anonymisation, les données peuvent être partagées entre chercheurs, ce qui facilite la collaboration et accélère les progrès médicaux tout en respectant la confidentialité des participants.</li>
+      </ul>
+      <br />
+      <br />
+      <h3 className="text-lg font-semibold">Finance</h3>
+      <br />
+      <ul className="list-disc ml-8">
+        <li><strong>Finance décentralisée (DeFi)</strong> :  La finance décentralisée est un système financier basé sur la blockchain qui opère sans intermédiaires traditionnels comme les banques. Elle utilise des contrats intelligents pour permettre des transactions peer-to-peer, notamment le prêt, le trading et la gestion d'actifs. En 2025, la DeFi est attendue pour atteindre de nouveaux sommets grâce à des innovations techniques et une meilleure intégration avec l'intelligence artificielle et la finance traditionnelle.</li>
+        <li><strong>Monnaies numériques de banque centrale (MNBC)</strong> :  Les MNBC, ou Central Bank Digital Currencies (CBDC), sont des versions numériques des monnaies traditionnelles émises par les banques centrales. Elles visent à améliorer l'inclusion financière et la rapidité des transactions. Des pays comme la Chine (Digital Yuan), la Suède (e-krona) et l'Union européenne (Digital Euro) expérimentent ces monnaies. Elles permettent un accès aux services financiers pour les populations non bancarisées, et un contrôle accru des transactions financières.</li>
+        <li><strong>Enchères numériques</strong> :  La blockchain révolutionne les enchères en offrant une transparence et une sécurité accrues. Les enchères sont gérées via des contrats intelligents qui enregistrent chaque transaction, garantissant l'immutabilité des résultats. Des plateformes comme <a href="https://www.artory.com/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> Artory</a> et <a href="https://www.maecenas.co/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> Maecenas</a> utilisent la blockchain pour la vérification de la provenance et la propriété fractionnelle des œuvres d'art.</li>
+        </ul>
+      <br />
+      <br />
+      <h3 className="text-lg font-semibold">Supply Chain</h3>
+      <br />
+      <ul className="list-disc ml-8">
+        <li><strong>Traçabilité et Transparence</strong> :  La blockchain permet un suivi précis des produits tout au long de la chaîne d'approvisionnement. Elle garantit l’authenticité des biens et leur conformité aux réglementations, notamment dans les secteurs alimentaire et pharmaceutique. Par exemple, des initiatives comme OriginTrail utilisent la blockchain pour établir un environnement de partage de données sécurisé et fiable, garantissant l'intégrité des informations tout au long du processus.</li>
+        <li><strong>Sécurisation des transactions et lutte contre la fraude</strong> :  Grâce à son registre distribué et infalsifiable, la blockchain empêche la falsification des documents et la contrefaçon des produits. Dans l'industrie diamantaire, par exemple, <a href="https://everledger.io/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> Everledger</a> utilise la blockchain pour tracer les diamants et s’assurer qu’ils proviennent de sources éthiques </li>
+        <li><strong>Intégration avec l'IoT et les nouvelles technologies</strong> :  La combinaison de la blockchain avec l’Internet des objets (IoT) permet d’automatiser la collecte de données et d'améliorer la réactivité des entreprises en cas d’incident. Par exemple, certaines plateformes permettent de suivre en temps réel les conditions de transport (température, humidité, localisation) pour les produits sensibles </li>
+      </ul>
+      <br />
+      <br />
+      <h3 className="text-lg font-semibold">IoT (exemple du projet HNT)</h3>
+      <br />
+      <a href="https://www.helium.com/"  target="_blank"  rel="noopener noreferrer"  className="text-blue-500 underline"> Helium</a> (HNT) est un exemple concret de l'utilisation de la blockchain pour révolutionner l'Internet des Objets (IoT). Voici comment :
+      <br />
+      <br />
+      <ul className="list-disc ml-8">
+        <li><strong>Connectivité Décentralisée pour l'IoT</strong> : Helium vise à fournir une couverture mondiale pour l'IoT en s'affranchissant des infrastructures centralisées coûteuses. Pour cela, il utilise le protocole de communication LoRaWAN, qui est idéal pour les appareils IoT en raison de sa longue portée et de sa basse consommation d'énergie. De plus, Helium intègre la technologie 5G pour offrir une connectivité plus performante, adaptée aux appareils mobiles et aux applications gourmandes en bande passante. Cette approche permet une expansion rapide et efficace du réseau, tout en garantissant une qualité de service élevée.</li>
+        <li><strong>Réseau Décentralisé avec Récompenses</strong> : Le réseau Helium repose sur une architecture décentralisée où les utilisateurs installent des hotspots qui servent à la fois de points d'accès sans fil et de mineurs de cryptomonnaie HNT. Les participants sont récompensés en HNT pour leur contribution à l'expansion et à la maintenance du réseau. Le mécanisme de consensus utilisé est appelé Proof of Coverage (PoC), qui vérifie la couverture réseau fournie par les hotspots, assurant ainsi la stabilité et la fiabilité du réseau. Ce système encourage l'adoption et la croissance du réseau en récompensant les contributeurs.</li>
+        <li><strong>Usage du Token HNT</strong> : Le token HNT est au cœur d'une économie numérique qui récompense les contributions au réseau. Il est utilisé pour les transactions et l'achat de services de connectivité via les Data Credits. De plus, HNT est échangé contre d'autres tokens spécifiques pour les réseaux IoT et mobiles d'Helium. En tant que monnaie d'échange, HNT facilite la participation active des utilisateurs dans l'écosystème Helium, créant ainsi un cycle économique dynamique et inclusif.</li>
+      </ul>
       </div>
     );
   };
