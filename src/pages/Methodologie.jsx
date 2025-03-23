@@ -11,27 +11,27 @@ const Methodologie = () => {
       <p className="mt-4"> Tout d'abord, il était important de bien comprendre les concepts clés de la blockchain et des smart contracts, puis de comprendre les secteurs les plus impactés par ces technologies. Pour cela, j'ai effectué des recherches en utilisant l'outil Perplexity, un modèle de langage naturel qui à partir d'un prompt, répond à des questions en citant et analysant des sources sur le Web. J'ai également utilisé les outils de recherche de ChatGPT et DeepSeek, mais aussi des outils de recherche classiques comme Google Scholar, ResearchGate, etc.</p>
       <div className="flex justify-center space-x-4 mt-6">
         <img
-          src="public/Perplexity.png"
+          src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/Perplexity.png?raw=true"
           alt="Image 1"
           className="w-1/20 object-cover"
         />
         <img
-          src="public/ChatGPT.png"
+          src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/ChatGPT.png?raw=true"
           alt="Image 2"
           className="w-1/20 object-cover"
         />
         <img
-          src="public/DeepSeek.png"
+          src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/DeepSeek.png?raw=true"
           alt="Image 3"
           className="w-1/20 object-cover"
         />
         <img
-          src="public/GoogleScholarr.png"
+          src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/GoogleScholarr.png?raw=true"
           alt="Image 4"
           className="w-1/20 object-cover"
         />
         <img
-          src="public/ResearchGate.png"
+          src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/ResearchGate.png?raw=true"
           alt="Image 5"
           className="w-1/20 object-cover"
         />
@@ -102,7 +102,7 @@ const Methodologie = () => {
       <p className="mt-4">Je recevais ainsi régulièrement des articles qui alimentaient ma veille : </p>
       <div className="flex justify-center space-x-4 mt-6">
         <img
-          src="public/Alertes.png"
+          src="https://github.com/OmarMousteau/veille_techno_blockchain_react_app/blob/main/public/Alertes.png?raw=true"
           alt="Image 1"
           className="w-2/3 object-cover"
         />
